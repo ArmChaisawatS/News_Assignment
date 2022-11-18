@@ -12,5 +12,6 @@ class RemoteService {
     } catch (e) {
       print(e.toString());
     }
+    return null;
   }
 }
